@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-image: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.header-section{
+    padding: 20px;
+}
+
+.header-section h1{
+    color: #fff;
+}
+.header-section p{
+    color: #fff;
+}
