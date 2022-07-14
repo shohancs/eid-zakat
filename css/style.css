@@ -42,3 +42,9 @@ header {
     text-decoration: none;
 }
 /* Heading Part End */
+
+/* Banner part start */
+.banner-one, .banner-two{
+    display: flex;
+}
+/* Banner part end */
