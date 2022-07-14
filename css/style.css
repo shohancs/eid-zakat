@@ -21,12 +21,14 @@ header {
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
 }
+
 .header-section p{
     color: #fff;
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
     padding-bottom: 5%;
 }
+
 .donate-btn {
     font-weight: 600;
     padding: 14px 23px;
