@@ -44,8 +44,8 @@ header {
 /* Heading Part End */
 
 /* Banner part start */
-.banner-section{
-    padding: 105px;
+.banner-section {
+    padding: 105px 105px 44px 105px;
 }
 
 .banner-one, .banner-two {
@@ -73,3 +73,63 @@ header {
     width: 543px;
 }
 /* Banner part end */
+
+/* Helping part start */
+.helping-heading{
+    text-align: center;
+}
+
+.helping-heading h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.helping-heading p{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 3%;
+}
+
+.helping-top, .helping-bottom {
+    display: flex;
+    padding: 0 155px;
+}
+
+.help{
+    display: flex;
+    background: #FEF4F5;
+    margin: 14px 20px;
+    padding: 45px;
+    border-radius: 10px;
+}
+
+.help-img img{
+    width: 52%;
+}
+
+.help-bottom h1{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.help-bottom p{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 14px;
+}
+
+.help-btn {
+    font-weight: 600;
+    padding: 7px 14px;
+    font-size: 15px;
+    background-color: #EF233C;
+    color: white;
+    border: 2px solid #EF233C;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+}
+/* Helping part end */
