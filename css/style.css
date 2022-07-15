@@ -141,10 +141,16 @@ header {
 }
 
 .feature-heading h1{
-
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
 }
 
-.feature-heading p{
+.feature-banner{
+    display: flex;
+}
 
+.main-feature img{
+    width: 100%;
 }
 /* Feature part end */
