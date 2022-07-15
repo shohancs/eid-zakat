@@ -166,7 +166,7 @@ header {
 .side-feature h3{
     font-size: 18px;
     font-weight: 700;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color:coral;
 }
 
@@ -175,5 +175,52 @@ header {
     font-weight: 700;
     font-family: 'Roboto', sans-serif;
     color: #fff;
+}
+
+.news-top {
+    display: flex;
+    padding: 25px 161px;
+}
+
+.news-bottom{
+    display: flex;
+    padding: 147px 161px;
+}
+
+.news-img img{
+    width: 100%;
+    height: 252px;
+}
+
+.news-des {
+    background-color: #FEF4F5;
+    width: 18%;
+    padding: 2px 18px 13px;
+    margin-left: 1.7%;
+    margin-top: -45px;
+    position: absolute;
+}
+
+.news-des h3{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    color:coral;
+}
+
+.news-des h1{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.news-des a{
+    color: gray;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.news-one, .news-two, .news-three{
+    padding: 9px;
 }
 /* Feature part end */
