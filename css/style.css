@@ -268,3 +268,20 @@ header {
     color: #EF233C;
 }
 /* Extend Part End */
+
+/* Footer start */
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 2%;
+}
+footer h2{
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+footer p{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+/* Footer End */
