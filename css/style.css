@@ -185,7 +185,7 @@ header {
 
 .news-bottom{
     display: flex;
-    padding: 147px 161px;
+    padding: 150px 161px 165px;
 }
 
 .news-img img{
@@ -225,3 +225,7 @@ header {
     padding: 9px;
 }
 /* Feature part end */
+
+/* Extend Part Start */
+
+/* Extend Part End */
