@@ -41,6 +41,10 @@ header {
     cursor: pointer;
     text-decoration: none;
 }
+.donate-btn:hover{
+    border: 2px solid #EF233C;
+    background-color: transparent;
+}
 /* Heading Part End */
 
 /* Banner part start */
