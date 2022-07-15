@@ -5,7 +5,7 @@ body{
 
 /* Heading Part Start */
 header {
-    background-image: linear-gradient(to left, rgba(0,0,0,0.4), rgba(0,0,0,0.9)) ,url(../images/2.jpg);
+    background-image: linear-gradient(to left, rgba(0,0,0,0.2), rgba(0,0,0,0.9)) ,url(../images/2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -146,11 +146,34 @@ header {
     font-family: 'Roboto', sans-serif;
 }
 
-.feature-banner{
+.feature-banner {
     display: flex;
+    padding: 10px 170px;
 }
 
 .main-feature img{
     width: 100%;
+}
+
+.side-feature {
+    background-color: #305176;
+    position: absolute;
+    margin-left: 691px;
+    margin-top: 15%;
+    padding: 37px 29px 61px;
+}
+
+.side-feature h3{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color:coral;
+}
+
+.side-feature h1{
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
 }
 /* Feature part end */
