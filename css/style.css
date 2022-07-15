@@ -138,6 +138,7 @@ header {
 /* Feature part start */
 .feature-heading{
     text-align: center;
+    padding-top: 25px;
 }
 
 .feature-heading h1{
@@ -159,7 +160,7 @@ header {
     background-color: #305176;
     position: absolute;
     margin-left: 691px;
-    margin-top: 15%;
+    margin-top: 14%;
     padding: 37px 29px 61px;
 }
 
