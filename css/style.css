@@ -136,5 +136,15 @@ header {
 /* Helping part end */
 
 /* Feature part start */
+.feature-heading{
+    text-align: center;
+}
 
+.feature-heading h1{
+
+}
+
+.feature-heading p{
+
+}
 /* Feature part end */
